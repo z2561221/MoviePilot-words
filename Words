@@ -3,43 +3,33 @@
 #剧集
 #洛基
 Loki.S02E03.1893.2160p => Loki.S02E03.2160p
-
 #无所畏惧
 The.Fearless => 无所畏惧.The.Fearless
-
 #综艺
 #森林进化论
 Forest.Evolutionism.Trailer => 森林进化论
-
+#我有一个朋友
+Be.With.You => 我有一个朋友 Be.With.You.2023
 
 #番剧
 #死神
 Bleach.Sennen.Kessen.Hen.S01 => 死神.S02
 BLEACH Sennen Kessenhen S01 => 死神 S02
-
 #16bit的感动
 16bit的感动 ANOTHER LAYER => {[tmdbid=217512;type=tv]}
-
 #雾山五行
 Fog.Hill.of.Five.Elements.2023.S02 => Fog.Hill.of.Five.Elements.2023.S01 && Fog.Hill.of.Five.Elements.2023.S01E <> .2160p >> EP+3
 Fog.Hill.of.Five.Elements.S02E => 	Fog.Hill.of.Five.Elements.S01E && Fog.Hill.of.Five.Elements.S01E <> .2023.2160p >> EP+3
-
 #我心里危险的东西S02
 The.Dangers.in.My.Heart.2024.S02 => 我心里危险的东西.2023.S01 &&  我心里危险的东西.2023.S01E <> .1080p >> EP+12
-#我有一个朋友
-Be.With.You => 我有一个朋友 Be.With.You.2023
-
 
 #儿童
 #海底小纵队
 The Octonauts => 海底小纵队
-
 #螺丝钉
 Fiksik => 螺丝钉
-
 #中国古诗词动漫
 Chinese Ancient Poetry Anime => 中国古诗词动漫 2017
-
 #大耳朵图图
 Da.Er.Duo.Tutu => 大耳朵图图
 Big Ear Tutu => 大耳朵图图
